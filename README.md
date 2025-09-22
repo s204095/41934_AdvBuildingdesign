@@ -5,6 +5,8 @@
 ## Questions:
 - Describe the use case you have chosen
 - Who is the use case for?
+    To check simple claims from an IFC files for anygiven elements. 
+    
 - What disciplinary (non BIM) expertise did you use to solve the use case
 - What IFC concepts did you use in your script (would you use in your script)
 - What disciplinary analysis does it require?
