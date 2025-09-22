@@ -2,3 +2,7 @@
 	path = external/BIManalyst_g_48
 	url = https://github.com/Schabinsky/BIManalyst_g_48.git
 	branch = main
+[submodule "external/BIManalyst_g_46"]
+	path = external/BIManalyst_g_46
+	url = https://github.com/riccardopadoan28/BIManalyst_g_46.git
+	branch = main
