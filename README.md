@@ -4,9 +4,11 @@ Focus Area:
  ** Build **/ Cost / Buildability / Permits
 
 Claims checking:
+Group 48
 1. Whether the number of meeting rooms in the BIM model corresponds to what is stated in the report.
 The report states that there should be 12 meeting rooms.
 
+Group 46
 2. Whether the types of columns in the BIM model correspond to what is stated in the report.
 The report states the following types of columns:
 530x200, 360x200, 380x200, 200x300, 200x240, 270x270, 640x200, 260x220, 200x200, 200x1090, 200x120, 380x280, 580x200, 400x300, HE160B, HE120B, HE180B, HE100B, HE140B, HE2200B.
@@ -23,6 +25,7 @@ Description of your script
 For analysts: A brief description of what your script is doing
 
 For Managers: A summary of the scripts you are running with links to their repos.
+
 # Introduction
 
 ## Questions:
