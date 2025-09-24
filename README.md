@@ -4,13 +4,17 @@ Focus Area:
  ** Build **/ Cost / Buildability / Permits
 
 Claims checking:
-  1. Om antallet af mødelokaler i BIM-modellen er i overensstemmelse med det som angives i repporten. Rapporten angiver at der skal være 12 mødelokaler.
-  2. Om antallet af de forskellige typer at søjler i BIM-modellen er i overensstemmelse med det som angives i rapporten. Rapporte angiver følgende typer af           søjler: 
+1. Whether the number of meeting rooms in the BIM model corresponds to what is stated in the report.
+The report states that there should be 12 meeting rooms.
+
+2. Whether the types of columns in the BIM model correspond to what is stated in the report.
+The report states the following types of columns:
+530x200, 360x200, 380x200, 200x300, 200x240, 270x270, 640x200, 260x220, 200x200, 200x1090, 200x120, 380x280, 580x200, 400x300, HE160B, HE120B, HE180B, HE100B, HE140B, HE2200B.
 
 
 The report and page number or section that you found the claim in.
-  Atal af mødelokaler: 25-08-D-CLIENT, side. 2 Antal af mødelokaler skal være 12 
-  Typer at søjler: Rapport 25-08-D-STR, side 14 
+  Number of meeting rooms: 25-08-D-CLIENT, page 2. The number of meeting rooms shall be 12.
+Types of columns: Report 25-08-D-STR, page 14.
   
 Description of your script
   Vores script tjekker om det angivet antal af mødelokaler som fremgår i rapporten, er i overensstemmelse med BIM-modellens design. 
