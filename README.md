@@ -1,4 +1,4 @@
-# Focus Area: ** Build **
+# Focus Area: **Build**
 
 -Manager group 49
 
