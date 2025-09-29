@@ -34,4 +34,4 @@ The report states the following types of columns: 530x200, 360x200, 380x200, 200
 
 **Description of the script Group 46:** checks whether the types of columns mentioned in the report as being used are also consistent with the BIM model’s structural design. Step 1: import the ifcopenshell library; Step 2: open the 25-08-D-STR.ifc file; Step 3: define the building using IfcBuilding; Step 4: extract all the type of columns modeled in the building; Step 5: check out if there are any lack of communication between model and report: an empty dictionary is filled with column type names
 
-**[Group 46](https://github.com/Grumstrup1/41934_G42)**
+**[Group 42](https://github.com/Grumstrup1/41934_G42)**
