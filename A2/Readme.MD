@@ -71,10 +71,10 @@ Highlight this area clearly in a marked SVG.
 Python-based **cost-checking and validation tool** using ifcOpenShell.
 
 ### Core Function
-Automatically extract quantities and materials from an IFC model, combine with Molio unit prices, and calculate total costs.
+Automatically extract defined quantities and materials from an IFC model, combine with Molio unit prices, and calculate total costs.
 
 ### Features
-- Integrates results from multiple analysts  
+- Integrates results from multiple analysts, scripts  
 - Visualises data and creates reports  
 - Supports **OpenBIM** principles of interoperability, collaboration, and traceability
 
@@ -85,12 +85,6 @@ Automatically extract quantities and materials from an IFC model, combine with M
 
 ### Societal Value
 - Promotes transparency and sustainability through OpenBIM standards  
-
-### BPMN Diagram
-_Add SVG or link here:_  
-`![BPMN – Tool Summary](docs/bpmn/tool_summary.svg)`
-
----
 
 ## A2f. Information Requirements
 
@@ -103,20 +97,7 @@ _Add SVG or link here:_
 | Spaces | `IfcSpace` | Classification, area, volume |
 
 ### Is It in the Model?
-_To be verified._
+YES
 
 ### Access via ifcOpenShell?
-_To be verified._
-
-### What Do You Need to Learn?
-_Add notes or link to Excel in Teams._
-
----
-
-## A2g. Software Licence
-Select appropriate licence:
-- MIT  
-- Apache 2.0  
-- GPL 3.0  
-
-_To be decided._
+YES
