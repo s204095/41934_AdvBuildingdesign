@@ -16,16 +16,14 @@
 Cost estimation for structural elements, windows, and spaces.
 
 ### Purpose of Checking This Claim
-The purpose of verifying this claim is to determine the costs associated with columns/beams, windows, and spaces.  
+The purpose of verifying this claim is to determine the costs associated with columns/beams, windows, and spaces. From a greater point of view, to verify the possibility of verifying and determining cost associated with any object digitally would be time saving.  
 
 - **Columns/Beams:** quantity, material type, and dimensions  
 - **Windows:** number, dimensions, and type  
 - **Spaces:** classification and evaluation  
 
-All elements use the **Molio price database** for cost estimation.  
-Cost estimation is critical for financial feasibility — poor control can make a project unviable.  
-
-> *Jeg kan ikke finde nogle priser for spaces.*
+All elements as a general rule will use the **Molio price database** for cost estimation.  
+Cost estimation is critical for financial feasibility — poor control can make a project unviable - during the tender phase, this can greatly help enhance the response time, increase productivity,efficiency and accuracy of a tender offer from GA's points of view. (given that the model and objects are correctly created) 
 
 ---
 
@@ -33,35 +31,19 @@ Cost estimation is critical for financial feasibility — poor control can make 
 
 ### How Would You Check This Claim?
 1. Identify three cost-related claims from the report.  
-2. Analysts each develop Python scripts to verify them.  
-3. Manager integrates all results into a single tool.  
-4. Extract quantities using **BlenderBIM** and **ifcOpenShell**.  
-5. Compare results with **Molio** price data.
-
-### When Would This Claim Need to Be Checked?
-During the **design development phase**, when the model holds sufficient detail but design flexibility remains.
-
-### What Information Does This Claim Rely On?
-
-#### Columns and Beams
-- Quantity  
-- Material type  
-- Dimensions  
-
-#### Windows
-- Quantity  
-- Dimensions  
-- Type  
-
-#### Spaces
-- Classification  
-- Area and volume  
+2. Analysts each develop Python scripts to verify the claim them.  
+3. Manager integrates all results into a single platform.  
+4. Extract quantities using **ifcOpenShell**.  
+5. Intergrate results with **Molio** price database.
 
 ### What Phase?
 **Tender phase (Build focus area)**
 
 At this stage, verified cost estimates ensure bids reflect accurate quantities and materials, reducing financial risk before construction begins.
 
+### What Information Does This Claim Rely On?
+
+See - Analyst groups.
 
 ### What BIM Purpose Is Required?
 **Analyse** (extract and compute), then **Communicate** (report to stakeholders).
