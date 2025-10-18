@@ -52,18 +52,14 @@ See - Analyst groups.
 **Use Case 02 — Cost Estimation**
 
 ### BPMN Diagram
-_Add SVG or link here:_  
-![BPMN – Cost Estimation](https://raw.githubusercontent.com/s204095/41934_AdvBIM/A2/diagram(1).svg)
 
----
+![](./flow.svg)
+[View Flow_Diagram (file)](./flow.svg)
+
 
 ## A2d. Scope the Use Case
-Identify where a new script or function is needed within the BPMN diagram.  
-Highlight this area clearly in a marked SVG.
-
-
-
----
+![](./scope.svg)
+[View Scope (file)](./scope.svg)
 
 ## A2e. Tool Idea
 
@@ -95,6 +91,7 @@ Automatically extract defined quantities and materials from an IFC model, combin
 | Beams | `IfcBeam` | Quantity, material, dimensions |
 | Windows | `IfcWindow` | Quantity, dimensions, type |
 | Spaces | `IfcSpace` | Classification, area, volume |
+| walls | `IfcWall` | Classification, area|
 
 ### Is It in the Model?
 YES
