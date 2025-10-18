@@ -61,8 +61,8 @@ _Add SVG or link here:_
 Identify where a new script or function is needed within the BPMN diagram.  
 Highlight this area clearly in a marked SVG.
 
-_Add BPMN diagram with highlighted step here:_  
-`![BPMN Highlighted Step](docs/bpmn/uc02_cost_estimation_tool_highlight.svg)`
+![BPMN – Cost Estimation](diagram(1).svg)
+[Open full-size version](cost_estimation.svg)
 
 ---
 
