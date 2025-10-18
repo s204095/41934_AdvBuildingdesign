@@ -61,8 +61,7 @@ _Add SVG or link here:_
 Identify where a new script or function is needed within the BPMN diagram.  
 Highlight this area clearly in a marked SVG.
 
-![BPMN – Cost Estimation](diagram(1).svg)
-[Open full-size version](diagram(1).svg)
+![BPMN – Cost Estimation](https://raw.githubusercontent.com/s204095/41934_AdvBIM/A2/diagram(1).svg)
 
 ---
 
