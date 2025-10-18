@@ -62,7 +62,7 @@ Identify where a new script or function is needed within the BPMN diagram.
 Highlight this area clearly in a marked SVG.
 
 ![BPMN – Cost Estimation](diagram(1).svg)
-[Open full-size version](cost_estimation.svg)
+[Open full-size version](diagram(1).svg)
 
 ---
 
